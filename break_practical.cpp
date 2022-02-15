@@ -8,7 +8,7 @@ main()
 	{
 		printf("Enter marks : ");
 		scanf("%d",&marks);
-		
+		// this is break statement
 		if(marks<35)
 		{
 			break;
